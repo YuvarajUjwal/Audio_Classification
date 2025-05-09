@@ -14,7 +14,7 @@ Project Structure
 
 - `Visualization/`: Folder for saved plots.
 - `Comparative_Analysis_ESC50.ipynb`: The core analysis notebook.
-- - `README.md`: You're reading it!
+- `README.md`: You're reading it!
 - `requirements.txt`: List of libraries used.
 
 ---
